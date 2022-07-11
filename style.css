@@ -39,7 +39,7 @@ h3 {
 
 /* FORM */
 #form-left {
-    background-image: url('/img/leaves.jpg');
+    background-image: url('img/leaves.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
